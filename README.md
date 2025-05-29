@@ -7,7 +7,7 @@ I am a software developer in constant evolution, currently specializing in **Blo
 - 🌐 **Node.js** – Robust backend development with a focus on scalable systems and blockchain integration.
 - 🐍 **Python** – Automation, scripting, data analysis, and project support.
 - ☕ **Java** – Development of robust, object-oriented applications.
-- 🚀 **Elixir** – Focused on scalable, distributed, and high-performance systems.
+- 🟣 **Elixir** – Focused on scalable, distributed, and high-performance systems.
 
 ### 🎯 Professional Goal:
 I am currently specializing as a **Blockchain Developer**, aiming to deepen my knowledge in smart contracts, decentralized protocols, blockchain security, and backend development for Web3 applications.
