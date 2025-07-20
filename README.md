@@ -10,9 +10,9 @@ I am a software developer in constant evolution, currently specializing in **Blo
 - ☕ **Java** – Development of robust, object-oriented applications.
 
 
-### 🎯 Professional Goal:
+###  Professional Goal:
 I am currently specializing as a **Blockchain Developer**, aiming to deepen my knowledge in smart contracts, decentralized protocols, blockchain security, and backend development for Web3 applications.
 
-### 📚 Always learning and evolving, with a focus on building secure, efficient, and high-quality solutions.
+###  Always learning and evolving, with a focus on building secure, efficient, and high-quality solutions.
 
 ---
