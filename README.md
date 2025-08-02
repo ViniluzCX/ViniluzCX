@@ -1,19 +1,40 @@
-## 👋 Hello, I'm Vinicius!
 
-I am a software developer in constant evolution, currently specializing in **Blockchain Development**. I have a strong background in backend development and am focusing my studies and projects on the Web3 ecosystem and decentralized technologies.
+# 👋 Hello, I'm Vinicius Cavalheiro
 
-### 💻 Technologies and Languages I work with:
-- 🔗 **Solidity** – Smart contract development and decentralized applications (dApps).
-- 🟣 **Elixir** – Focused on scalable, distributed, and high-performance systems.
-- 🌐 **Node.js** – Robust backend development with a focus on scalable systems and blockchain integration.
-- 🐍 **Python** – Automation, scripting, data analysis, and project support.
-- 🔵 **Go (Golang)** – Efficient, concurrent programming for backend services and infrastructure.
+💻 **Software Engineer | Blockchain Developer | Web3 Enthusiast**
 
-
-
-###  Professional Goal:
-I am currently specializing as a **Blockchain Developer**, aiming to deepen my knowledge in smart contracts, decentralized protocols, blockchain security, and backend development for Web3 applications.
-
-###  Always learning and evolving, with a focus on building secure, efficient, and high-quality solutions.
+I'm a passionate developer in constant evolution, currently **specializing in Blockchain Development**. With a strong background in **backend development**, I focus on building efficient, scalable, and secure solutions in the **Web3 ecosystem**.
 
 ---
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="60" alt="Solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="60" alt="Elixir" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
+</div>
+
+---
+
+## 🎯 Professional Goals
+
+🚀 I’m on a mission to become an expert **Blockchain Developer**, with strong skills in:
+
+* 🔗 Smart Contracts (Solidity)
+* 🧱 Decentralized Applications (dApps)
+* 🌐 Web3 Backend Integrations
+* 🔒 Blockchain Security & Protocols
+* ⚙️ Scalable Backend Systems
+
+---
+
+## 🧠 Always Learning, Always Building
+
+I’m constantly growing and embracing new challenges, with a focus on creating **high-quality, performant, and secure software**. I believe in writing clean, maintainable code and building future-proof solutions.
+
+
+
