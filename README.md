@@ -1,4 +1,3 @@
-
 # 👋 Hello, I'm Vinicius Cavalheiro
 
 💻 **Software Engineer | Blockchain Developer | Web3 Enthusiast**
@@ -15,6 +14,7 @@ I'm a passionate developer in constant evolution, currently **specializing in Bl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
 </div>
 
 ---
@@ -34,6 +34,3 @@ I'm a passionate developer in constant evolution, currently **specializing in Bl
 ## 🧠 Always Learning, Always Building
 
 I’m constantly growing and embracing new challenges, with a focus on creating **high-quality, performant, and secure software**. I believe in writing clean, maintainable code and building future-proof solutions.
-
-
-
